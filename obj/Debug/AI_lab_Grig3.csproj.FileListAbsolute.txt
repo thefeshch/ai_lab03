@@ -1,0 +1,7 @@
+C:\Users\fkost\source\repos\AI_lab_Grig3\bin\Debug\AI_lab_Grig3.exe.config
+C:\Users\fkost\source\repos\AI_lab_Grig3\bin\Debug\AI_lab_Grig3.exe
+C:\Users\fkost\source\repos\AI_lab_Grig3\bin\Debug\AI_lab_Grig3.pdb
+C:\Users\fkost\source\repos\AI_lab_Grig3\obj\Debug\AI_lab_Grig3.csproj.AssemblyReference.cache
+C:\Users\fkost\source\repos\AI_lab_Grig3\obj\Debug\AI_lab_Grig3.csproj.CoreCompileInputs.cache
+C:\Users\fkost\source\repos\AI_lab_Grig3\obj\Debug\AI_lab_Grig3.exe
+C:\Users\fkost\source\repos\AI_lab_Grig3\obj\Debug\AI_lab_Grig3.pdb
